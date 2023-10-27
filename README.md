@@ -68,6 +68,10 @@ ___
 -> 사용자 입장에서는 화면 갱신도 없고, 요청-응답 사이 시간에도 다른 일을 진행 할 수 있기 때문에 편리하고 빠르게 작업을 처리하는 것처럼 느껴짐 
 
 ### Reference
+
 [Javascript 비동기 함수의 동작원리 (feat. EventLoop)]([https://www.nextree.co.kr/p9521/](https://gruuuuu.github.io/javascript/async-js/))
+
 [JavaScript, jQuery, 그리고 Ajax POST](https://www.Tnextree.co.kr/p9521/)
+
 [jQuery란 무엇인가?]([https://www.Tnextree.co.kr/p9521/](https://code.tutsplus.com/ko/what-is-jquery--cms-26232t)https://code.tutsplus.com/ko/what-is-jquery--cms-26232t)
+
