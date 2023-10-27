@@ -69,9 +69,9 @@ ___
 
 ### Reference
 
-[Javascript 비동기 함수의 동작원리 (feat. EventLoop)]([https://www.nextree.co.kr/p9521/](https://gruuuuu.github.io/javascript/async-js/))
+[Javascript 비동기 함수의 동작원리 (feat. EventLoop)](https://gruuuuu.github.io/javascript/async-js/)
 
 [JavaScript, jQuery, 그리고 Ajax POST](https://www.Tnextree.co.kr/p9521/)
 
-[jQuery란 무엇인가?]([https://www.Tnextree.co.kr/p9521/](https://code.tutsplus.com/ko/what-is-jquery--cms-26232t)https://code.tutsplus.com/ko/what-is-jquery--cms-26232t)
+[jQuery란 무엇인가?](https://code.tutsplus.com/ko/what-is-jquery--cms-26232t)
 
